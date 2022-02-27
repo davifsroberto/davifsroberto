@@ -7,7 +7,7 @@
 <section>  
   <a href="https://www.linkedin.com/in/davifsroberto" target="_blank">  
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=davifsroberto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifsroberto&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifsroberto&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </section>
 <br />  
