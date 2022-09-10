@@ -12,14 +12,16 @@
 </section>
 <br />  
     
-<section style="display: inline_block">
-<img align="center" alt="Davi Roberto - React" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi Roberto - Angular" height="36" width="40" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Davi Roberto - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi Roberto - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi Roberto - JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi Roberto - TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</section>
+<a href="https://www.linkedin.com/in/davifsroberto" target="_blank">  
+  <section style="display: inline_block">
+  <img align="center" alt="Davi Roberto - React" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Davi Roberto - Angular" height="36" width="40" src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Davi Roberto - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Davi Roberto - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Davi Roberto - JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Davi Roberto - TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </section>
+</a>
   
 ##
   
